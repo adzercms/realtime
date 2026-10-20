@@ -1,5 +1,5 @@
 # adzercms/realtime
 
-Real-time page updates for AdzerCMS: live blocks refreshed through a hub module
+Live page updates for AdzerCMS: parts of a page refresh without reloading
 
 Read-only package repository: changes go to the monorepository https://github.com/adzercms/adzercms.
